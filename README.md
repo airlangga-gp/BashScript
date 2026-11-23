@@ -3,7 +3,7 @@
 
 ---
 
-## **1. automatic backup**
+## **1. Automatic backup**
 **I created this script with the aim that important files can be backed up automatically using this script and cronjob.**
 
 ```bash
